@@ -2,12 +2,7 @@
 
 A new Flutter project.
 
-### 2. Login Screen
-
-Learn how to use: **StatusBar**, **Expo Icons**, **Image**, **TextInput**, **TouchableOpacity**
-
-
-
+###. Screen
 <img src="https://github.com/letienkhang/BubbleButtonFlutter/issues/1#issue-1173714482" width="250" alt="Bubble Scr buttoneen" /> 
 
 ## Getting Started
