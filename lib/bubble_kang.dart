@@ -165,8 +165,8 @@ class BubbleAnimationWidgetState extends State<BubbleAnimationWidget> with Singl
                                 backgroundColor: Colors.transparent,
                                 child: Icon(
                                   Icons.close,
-                                  color: Colors.white,
-                                  size: 15,
+                                  color: Colors.black,
+                                  size: 20,
                                 ),
                               ),
                             ),
