@@ -6,7 +6,9 @@ A new Flutter project.
 
 Learn how to use: **StatusBar**, **Expo Icons**, **Image**, **TextInput**, **TouchableOpacity**
 
-<img src="https://user-images.githubusercontent.com/12640832/94335654-33471680-0007-11eb-8c5e-ef04bd211907.png" width="250" alt="Momo Login Screen" /> <img src="https://user-images.githubusercontent.com/12640832/87783634-14861000-c85f-11ea-92cb-ff99ee1f46da.png" width="250" alt="Facebook Login Screen" />
+
+
+<img src="https://github.com/letienkhang/BubbleButtonFlutter/issues/1#issue-1173714482" width="250" alt="Bubble Scr buttoneen" /> <img src="https://github.com/letienkhang/BubbleButtonFlutter/issues/1#issue-1173714482" width="250" alt="Facebook Login Screen" />
 
 ## Getting Started
 
