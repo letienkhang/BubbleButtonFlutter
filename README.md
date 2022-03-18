@@ -2,7 +2,11 @@
 
 A new Flutter project.
 
-<video src='https://www.youtube.com/watch?v=do6t1wOHeFw' width=180/>
+### 2. Login Screen
+
+Learn how to use: **StatusBar**, **Expo Icons**, **Image**, **TextInput**, **TouchableOpacity**
+
+<img src="https://user-images.githubusercontent.com/12640832/94335654-33471680-0007-11eb-8c5e-ef04bd211907.png" width="250" alt="Momo Login Screen" /> <img src="https://user-images.githubusercontent.com/12640832/87783634-14861000-c85f-11ea-92cb-ff99ee1f46da.png" width="250" alt="Facebook Login Screen" />
 
 ## Getting Started
 
