@@ -8,7 +8,7 @@ Learn how to use: **StatusBar**, **Expo Icons**, **Image**, **TextInput**, **Tou
 
 
 
-<img src="https://github.com/letienkhang/BubbleButtonFlutter/issues/1#issue-1173714482" width="250" alt="Bubble Scr buttoneen" /> <img src="https://github.com/letienkhang/BubbleButtonFlutter/issues/1#issue-1173714482" width="250" alt="Facebook Login Screen" />
+<img src="https://github.com/letienkhang/BubbleButtonFlutter/issues/1#issue-1173714482" width="250" alt="Bubble Scr buttoneen" /> 
 
 ## Getting Started
 
