@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'bubble_kang.dart';
+
 void main() {
   runApp(const MyApp());
 }
@@ -30,12 +32,25 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-
   @override
   Widget build(BuildContext context) {
+    Size size = MediaQuery.of(context).size;
+    // pos
+    Offset _offset =
+        Offset(size.width - (size.width / 4), size.height - (size.width / 2.3));
     return Scaffold(
       appBar: AppBar(),
-
+      body: Stack(
+        children: [
+          BubbleAnimationWidget(
+            width: 64,
+            offset: _offset,
+            onTapClose: () {},
+            onTap: () {},
+            imageUrl: 'https://post.healthline.com/wp-content/uploads/2020/09/healthy-eating-ingredients-732x549-thumbnail-732x549.jpg',
+          ),
+        ],
+      ),
     );
   }
 }
