@@ -3,7 +3,7 @@
 A new Flutter project.
 
 ###. Screen
-<img src="https://github.com/letienkhang/BubbleButtonFlutter/issues/1#issue-1173714482" width="250" alt="Bubble Scr buttoneen" /> 
+<img src="https://ibb.co/jrrb9P0" width="250" alt="Bubble Scr buttoneen" /> 
 
 ## Getting Started
 
