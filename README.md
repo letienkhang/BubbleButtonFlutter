@@ -1,8 +1,6 @@
 # bubblebutton
 
 A new Flutter project.
-
-###. Screen
 <img src="https://ibb.co/jrrb9P0" width="250" alt="Bubble Scr buttoneen" /> 
 
 ## Getting Started
